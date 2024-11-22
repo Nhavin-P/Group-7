@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Title of the post
 author: Ilamparithi M
 tags: [testnga]
 ---
