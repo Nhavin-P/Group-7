@@ -16,7 +16,7 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel la
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
-<iframe src="https://1drv.ms/p/s!Av5rDbD5hPIjtRscatz6gkEkJ1W0?embed=1&amp;em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://1drv.ms/p/s!Av5rDbD5hPIjtRscatz6gkEkJ1W0?embed=1&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ## Lists
 
@@ -79,7 +79,7 @@ Now a table:
 
 This is an image[^4]
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdySBmuubA-zpXyujC_UxeEU3ZN18AeUnMjqiPA8cowA06Y0g/viewform?embedded=true" width="640" height="673" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdySBmuubA-zpXyujC_UxeEU3ZN18AeUnMjqiPA8cowA06Y0g/viewform?embedded=true" width="100%" height="673" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 {: data-content="footnotes"}
