@@ -39,7 +39,7 @@ Now a table:
 
 ## Images
 
-![theme logo]()
+![theme logo](images/eng%20img1.webp)
 
 This is an image[^4]
 
