@@ -5,37 +5,8 @@ author: P NHAVIN
 ---
 
 
-
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
-
-
-
 <iframe src="https://1drv.ms/p/s!Av5rDbD5hPIjtRscatz6gkEkJ1W0?embed=1&amp;em=2&amp;wdAr=1.7777777777777777" style="width: 100%; aspect-ratio: 16 / 9;" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-
-
-
-
-
-
-
-
-
-
-## Tables
-
-Now a table:
-
-| Tables        | 
-| ---           |
-| col 3 is      | 
-| col 2 is      |
-| zebra stripes | 
 
 ## Images
 
