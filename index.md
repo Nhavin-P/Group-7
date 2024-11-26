@@ -4,19 +4,17 @@ title: Title of the post
 author: P NHAVIN
 ---
 
-
-<div id="adobe-dc-view-english-ppt" style="width: 100%; aspect-ratio: 7 / 5;"></div>
-<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+<div id="adobe-dc-view" style="width: 100%; aspect-ratio: 7 / 6;"></div>
+<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
-    document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-        var adobeDCView = new AdobeDC.View({clientId: "915159c738c549a08402de062776255c", divId: "adobe-dc-view-english-ppt"});
-        adobeDCView.previewFile({
-            content:{location: {url: "images/english%20ppt.pdf"}},
-            metaData:{fileName: "Online Gaming - Socialization or Isolation"}
-        }, {});
-    });
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "915159c738c549a08402de062776255c", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "images/english%20ppt.pdf"}},
+			metaData:{fileName: "Online Gaming - Socialization or Isolation"}
+		}, {embedMode: "SIZED_CONTAINER"});
+	});
 </script>
-
 
 ## Images
 
