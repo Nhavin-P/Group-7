@@ -5,7 +5,17 @@ author: P NHAVIN
 ---
 
 
-<iframe src="https://1drv.ms/p/s!Av5rDbD5hPIjtRscatz6gkEkJ1W0?embed=1&amp;em=2&amp;wdAr=1.7777777777777777" style="width: 100%; aspect-ratio: 16 / 9;" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<div id="adobe-dc-view-english-ppt" style="width: 100%; aspect-ratio: 7 / 5;"></div>
+<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+        var adobeDCView = new AdobeDC.View({clientId: "915159c738c549a08402de062776255c", divId: "adobe-dc-view-english-ppt"});
+        adobeDCView.previewFile({
+            content:{location: {url: "https://github.com/Nhavin-P/Group-7/blob/master/images/english%20ppt.pdf?raw=true"}},
+            metaData:{fileName: "Online Gaming - Socialization or Isolation"}
+        }, {});
+    });
+</script>
 
 
 ## Images
