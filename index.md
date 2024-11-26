@@ -16,11 +16,6 @@ author: P NHAVIN
 	});
 </script>
 
-## Images
-
-![theme logo](images/eng%20img1.webp)
-
-This is an image[^4]
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdotmZylpHSMyHvC3a3VrV_Ghww6PN1pNDFZREScshQSlkLbA/viewform?embedded=true" style="width: 100%; aspect-ratio: 3 / 4;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
