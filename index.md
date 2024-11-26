@@ -1,6 +1,6 @@
 ---
 layout: post
-
+---
 
 <div id="adobe-dc-view" style="width: 100%; aspect-ratio: 7 / 5;"></div>
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
