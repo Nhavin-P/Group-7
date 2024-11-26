@@ -11,7 +11,7 @@ author: P NHAVIN
     document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
         var adobeDCView = new AdobeDC.View({clientId: "915159c738c549a08402de062776255c", divId: "adobe-dc-view-english-ppt"});
         adobeDCView.previewFile({
-            content:{location: {url: "https://github.com/Nhavin-P/Group-7/blob/master/images/english%20ppt.pdf?raw=true"}},
+            content:{location: {url: "images/english%20ppt.pdf"}},
             metaData:{fileName: "Online Gaming - Socialization or Isolation"}
         }, {});
     });
