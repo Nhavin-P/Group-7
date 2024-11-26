@@ -4,7 +4,7 @@ title: Title of the post
 author: P NHAVIN
 ---
 
-<div id="adobe-dc-view" style="width: 100%; aspect-ratio: 7 / 6;"></div>
+<div id="adobe-dc-view" style="width: 100%; aspect-ratio: 7 / 5;"></div>
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
