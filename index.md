@@ -2,6 +2,9 @@
 layout: post
 ---
 
+
+
+
 <div id="adobe-dc-view" style="width: 100%; aspect-ratio: 7 / 5;"></div>
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
@@ -13,6 +16,8 @@ layout: post
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
+
+
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdotmZylpHSMyHvC3a3VrV_Ghww6PN1pNDFZREScshQSlkLbA/viewform?embedded=true" style="width: 100%; aspect-ratio: 3 / 4;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
